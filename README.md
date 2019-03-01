@@ -1,4 +1,4 @@
-# devs_landing
+# Devs.NG Frontend with Vue.js
 
 ## Project setup
 ```
