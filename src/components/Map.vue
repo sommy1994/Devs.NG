@@ -15,6 +15,9 @@
 </template>
 
 <style scoped>
+img {
+  width: 100%;
+}
 .self{
   padding: 0 0 0 80px;
 }

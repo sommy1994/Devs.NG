@@ -1,6 +1,5 @@
 <template>
   <div>
-
     <div class="text-center">
       <h3 class="text-lead">
         A tech community driven by goals and actions
