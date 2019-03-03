@@ -71,7 +71,7 @@ export default {
   }
   #header{
     background-color: #F8FCFF;
-    height: 550px !important;
+    height: auto;
   }
   #header .container{
     padding-top: 20px;
@@ -96,4 +96,18 @@ export default {
   button:hover{
     color: white !important;
   }
+
+@media (min-width: 768px) {
+    #header {
+      height: 70vh !important;
+    }
+  }
+
+  @media (min-width: 1200px) {
+    #header {
+      height: 90vh !important;
+    }
+  }
+
+
 </style>
